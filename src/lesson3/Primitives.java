@@ -41,6 +41,7 @@ public class Primitives {
         float floatNumber = 1.1234567890123467890F;
         System.out.println(doubleNumber);
         System.out.println(floatNumber);
+        //hsdhfksdhfksdhf
 
         //Char - character (символ), 16 bit
         char letter = 70;
